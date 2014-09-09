@@ -21,9 +21,10 @@ requires:
   Lingua::EN::Syllable: '0'
   Search::Tools: '1.000'
   Test::More: '0'
+  Text::Aspell: '0'
   perl: '5.008003'
 resources:
   bugtracker: http://rt.cpan.org/NoAuth/Bugs.html?Dist=Text-IQ
   homepage: https://github.com/karpet/text-iq-perl
   license: http://dev.perl.org/licenses/
-version: '0.001'
+version: '0.002'
